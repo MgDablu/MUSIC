@@ -51,7 +51,8 @@ Read [Docs](https://mgdablu.gitbook.io/dablumusic/deployment/requirements) for D
     
 <h4>Click the button below to deploy Dablu Music on Telegram!</h4>    
 <p><a href="https://t.me/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
-    <p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>
+<h4>Click the button below to deploy Dablu Music on Heroku </h4> 
+<p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>
 </details>
 
 <details>
